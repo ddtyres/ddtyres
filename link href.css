@@ -1,0 +1,271 @@
+/*=================================*/
+/* storetemplates4u
+/* 2012
+/*=================================*/
+
+/*====================*/
+/*=== Main Styles ===*/
+/*====================*/
+body {
+    margin:0px;
+    padding:0px;
+}
+#body {
+    background-color:#f9f7f7 !important;
+    padding:0px 0px 0px 0px !important;
+    margin:0px !important; 
+}
+.wrapper {
+    float:left;
+}
+.pagewidth {
+    background: none repeat scroll 0 0 #FFFFFF !important;
+    margin: 0 auto !important;
+    padding:0 30px 20px !important;
+    width: 960px !important;
+    color:#000;
+}
+.header {
+    width:960px;
+    padding-top:10px;
+}
+.header-inner {
+    height:78px;
+}
+.header-inner img {
+    padding-top:20px;
+    float:left;
+}
+.support {
+  background-image: url("http://storetemplates4u.co.uk/listing/ultra/images/colors/red/support-red.png") !important;
+  background-position: right center;
+  background-repeat: no-repeat;
+  float: right;
+  height: 48px;
+  padding-left: 33px;
+  padding-top: 30px;
+  width: 256px;
+}
+.support .phone {
+  font-family: 'PT Sans',sans-serif;
+    color:#000;
+    font-size:16px;
+    font-weight:bold;
+    
+}
+.support .email {
+  color: #A0A0A0;
+  font-family: 'PT Sans',sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2px;
+}
+
+/*====================*/
+/*=== Custom Top Navigation Styles ===*/
+/*====================*/
+.nav {
+    background-image:url(http://storetemplates4u.co.uk/listing/ultra/images/colors/red/nav-bar-bg-red.png) !important;
+    width:960px !important;
+    height:59px !important; 
+}
+.nav .menu {
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+}
+.nav .menu li {
+    float:left;
+    background-position: top right;
+    background-repeat: repeat-y;
+}
+.nav .menu li a {
+  background-position: left center;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+  display: block;
+  font-family: 'PT Sans',sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 59px;
+  margin-left: 10px;
+  padding-left: 45px;
+  padding-right: 30px;
+  text-decoration: none;
+}
+
+.nav .menu .home a {
+    background-image:url(http://storetemplates4u.co.uk/listing/ultra/images/home-icon.png) !important;
+    width:57px;
+    height:59px;
+
+}
+.nav .menu .about-us a {
+    background-image:url(http://storetemplates4u.co.uk/listing/ultra/images/about-us-icon.png) !important;
+    height:59px;
+
+}
+.nav .menu .feedback a {
+    background-image:url(http://storetemplates4u.co.uk/listing/ultra/images/feedback-icon.png) !important;
+    height:59px;
+
+}
+.nav .menu .favourites a {
+    background-image:url(http://storetemplates4u.co.uk/listing/ultra/images/favourites-icon.png) !important;
+    height:59px;
+
+}
+.nav .menu .other-items a {
+    background-image:url(http://storetemplates4u.co.uk/listing/ultra/images/other-items-icon.png) !important;
+    height:59px;
+
+}
+.nav .menu .contact a {
+    background-image:url(http://storetemplates4u.co.uk/listing/ultra/images/contact-icon.png) !important;
+    height:59px;
+
+}
+.nav .menu .contact {
+    background-image:none !important;
+}
+
+.lower-nav {
+    background-color:#f9f7f7;
+}
+.lower-nav-1, .lower-nav-2, .lower-nav-3 {
+    float:left;
+    text-align: center;
+    padding:14px 0px;
+}
+.lower-nav-1 {
+    width:320px;
+    border-bottom:3px solid #f35854;
+    border-right:1px solid #d4d4d4;
+    background-color:#f9f7f7;
+}
+.lower-nav-2 {
+    width:318px;
+    border-bottom:3px solid #000;
+    border-right:1px solid #d4d4d4;
+    background-color:#f9f7f7;
+}
+.lower-nav-3 {
+    width:320px;
+    border-bottom:3px solid #f35854;
+    background-color:#f9f7f7;
+}
+.lower-nav-1 h2, .lower-nav-2 h2, .lower-nav-3 h2 {
+    text-transform: uppercase;
+    font-size:13px;
+    font-weight:bold;
+    font-family: 'PT Sans', sans-serif;
+    margin:0px;
+}
+.lower-nav-2 h2 {
+    color:#f35854;
+}
+.lower-nav-1 p, .lower-nav-2 p, .lower-nav-3 p {
+    text-transform: lowercase;
+    font-size:12px;
+    font-weight:normal;
+    font-family: 'PT Sans', sans-serif;
+    margin:0px;
+}
+.main-lower {
+    margin-top:20px;
+    float:left;
+}
+.main-collumn {
+
+  width: 960px;
+}
+.main-lower-content {
+    display: inline-block;
+  margin-top: 20px;
+}
+.main-left {
+    float:left;
+    width:320px;
+}
+.main-left h1 {
+    font-family: 'PT Sans', sans-serif;
+    color:#000;
+    font-size:28px;
+    margin:0px;
+
+}
+.main-left h2 {
+    font-family: 'PT Sans', sans-serif;
+    color:#F35854;
+    font-size:16px;
+    margin:0px;
+
+}
+.main-left p {
+    font-family: 'PT Sans', sans-serif;
+    color:#000;
+    font-size:14px;  
+    line-height:24px;
+}
+
+.main-left .spec strong {
+    font-family: 'PT Sans', sans-serif;
+    color:#000;
+    font-size:14px;  
+    line-height:24px;
+    float:left;
+}
+.main-left .spec p {
+    text-align: right;
+    border-bottom:1px solid #000;
+    padding-bottom:6px;
+    margin-bottom:6px;
+}
+.main-center {
+    float:left;
+    width:416px;
+    margin:0px 10px;
+}  
+.main-right {
+
+    float:left;
+    width:204px;
+}  
+.main-right  .banner-area img {
+  border: medium none;
+  margin-bottom: 14px;
+}
+.main-collumn {
+    float:left;
+}
+.main-collumn .box {
+  float: left;
+  width: 285px;
+}
+.main-collumn .box h2 {
+  background-image: url("http://storetemplates4u.co.uk/listing/ultra/images/colors/red/border-bg-red.png") !important;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  color: #000000;
+  font-family: 'PT Sans',sans-serif;
+  font-size: 19px;
+  margin: 0 0 20px;
+  padding-bottom: 20px;
+}
+.main-collumn .middle {
+  margin: 0 52px;
+}
+.main-collumn .box p {  
+    font-family: 'PT Sans', sans-serif;
+    color:#000;
+    font-size:14px;  
+    line-height:24px;
+}
+.main-collumn .box ul {
+    padding-left:13px;
+}
+.main-collumn .box li {  
+    font-family: 'PT Sans', sans-serif;
+    color:#000;
+    font-size:14px;  
+    line-height:24px;
+}
